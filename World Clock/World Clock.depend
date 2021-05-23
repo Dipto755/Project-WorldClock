@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1621764160 source:f:\world of coding\world clock\main.cpp
+	<stdio.h>
+	<time.h>
+	<graphics.h>
+	<conio.h>
+

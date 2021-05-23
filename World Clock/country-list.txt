@@ -1,0 +1,107 @@
+1.Afghanisthan
+
+2.Argentina
+
+3.Australia (Canberra)
+
+4.Belgium
+
+5.Bhutan
+
+6.Brazil (Rio de Janeiro)
+
+7.Canada
+
+8.Chile (Santiago)
+
+9.China
+
+10.Colombia
+
+11.Coste divorie
+
+12.Cratia
+
+13.Denmark
+
+14.Ecuador (Quito)
+
+15.Egypt
+
+16.Finland (Helsinki)
+
+17.France (Paris)
+
+18.Germany (Berlin)
+
+19.Greece
+
+20.Hong kong
+
+21.India
+
+22.Indonesia (Jarkarta)
+
+23.Iran
+
+24.Iraq
+
+25.Italy
+
+26.Japan
+
+27.Kuwait
+
+28.Malaysia
+
+29.Mexico (Mexico City)
+
+30.Myanmar
+
+31.Nepal
+
+32.Netherland
+
+33.New Zeland (Wellington)
+
+34.Pakistan
+
+35.Portugal (Lisbon)
+
+36.Qatar
+
+37.Russia(Moscow)
+
+38.Saudi Arabia
+
+39.Singapore
+
+40.South Africa (Cape town)
+
+41.South Korea
+
+42.Spain
+
+43.Sri Lanka
+
+44.Sweden
+
+45.Switzerland
+
+46.Thailand
+
+47.Turkey
+
+48.UAE
+
+49.U.K
+
+50.Uruguay
+
+51.USA (Florida,Miami)
+
+52.Vietnam
+
+53.Zimbabwe
+
+54.Bangladesh
